@@ -1,0 +1,32 @@
+{
+	"skills": [
+               [
+         	 	     "Javascript",
+          		"JQuery",
+          		"HTML",
+          		"CSS",
+          		"PHP",
+          		"Angular Js",
+                    "Ajax"
+     	    ],
+              [
+                    "API Integration",
+                    "Wordpress",
+                    "Shopify",
+                    "MySQL fundamentals",
+                    "Git",
+                    "SASS",
+                    "Responsive Development",
+              ],
+              [
+                    "Mailchimp",
+                    "Adobe Creative Suite",
+                    "Advanced Troubleshooting",
+                    "Highly Motivated",
+                    "Passion for Learning",
+                    "Creative Problem Solving",
+                    "Proficient in Mac & PC",
+              ]
+          ],
+
+}
